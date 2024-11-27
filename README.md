@@ -17,6 +17,7 @@ This project is a data viewer application consisting of a **server** (Flask) and
   - [For macOS](#for-macos)
   - [For Windows](#for-windows)
 - [Usage](#usage)
+- [Screenshot](#screenshot)
 
 ---
 
@@ -189,6 +190,13 @@ data-viewer/
 1. Paste valid CSV content into the textarea.
 2. Click the **Process CSV** button.
 3. The parsed data will be displayed in the grid.
+
+---
+
+## Screenshot
+Here’s how the application looks when running:
+
+![Application Screenshot](image.png)
 
 ---
 
