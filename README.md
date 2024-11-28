@@ -6,7 +6,7 @@ This project is a data viewer application consisting of a **server** (Flask) and
 ---
 
 ## Screenshot
-![Application Screenshot](https://example.com/your-image.png)
+![Application Screenshot](https://raw.githubusercontent.com/gsmart/data-viewer/refs/heads/main/client/public/demo.png)
 
 ---
 
