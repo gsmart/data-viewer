@@ -5,6 +5,11 @@ This project is a data viewer application consisting of a **server** (Flask) and
 
 ---
 
+## Screenshot
+![Application Screenshot](https://example.com/your-image.png)
+
+---
+
 ## Table of Contents
 - [Project Structure](#project-structure)
 - [Prerequisites](#prerequisites)
