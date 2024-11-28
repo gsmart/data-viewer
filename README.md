@@ -5,6 +5,11 @@ This project is a data viewer application consisting of a **server** (Flask) and
 
 ---
 
+## Screenshot
+![Application Screenshot](https://raw.githubusercontent.com/gsmart/data-viewer/refs/heads/main/client/public/demo.png)
+
+---
+
 ## Table of Contents
 - [Project Structure](#project-structure)
 - [Prerequisites](#prerequisites)
