@@ -3,6 +3,8 @@
 
 This project is a data viewer application consisting of a **server** (Flask) and a **client** (React with Next.js). The server processes CSV, Excel, and PDF files and returns data, while the client visualizes it using Handsontable.
 
+**[Demo Link](https://data-viewer-omega.vercel.app/)**
+
 ---
 
 ## Table of Contents
